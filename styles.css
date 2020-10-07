@@ -24,8 +24,6 @@ a:hover {
 }
 
 .blinking-cursor {
-  font-weight: 100;
-  font-size: 30px;
   color: grey;
   -webkit-animation: 1s blink step-end infinite;
   -moz-animation: 1s blink step-end infinite;

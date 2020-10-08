@@ -14,6 +14,10 @@ body {
   opacity: 0.75;
 }
 
+.display-5 {
+  padding-right: 16px;
+}
+
 .notice {
   font-size: 0.75em;
 }
